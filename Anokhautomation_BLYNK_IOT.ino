@@ -14,7 +14,7 @@
  **********************************************************************************/
 
 // Fill-in information from your Blynk Template here
-#define BLYNK_TEMPLATE_ID "TMPLmLjHpNqy"// Enter the Blynk template ID here
+#define BLYNK_TEMPLATE_ID "xxxxxxxxxxxx"// Enter the Blynk template ID here
 #define BLYNK_DEVICE_NAME "Anokhautomation"// Enter the Blynk Device Name here
 //#define BLYNK_DEVICE_NAME ""
 
